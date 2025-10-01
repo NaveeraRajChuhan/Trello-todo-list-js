@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .main{
+    background-color: rgb(43, 226, 43);
+    width: 100%;
+    height: 100vh;
+}
+.nav{
+    background-color: rgb(43, 137, 226);
+    width: 100%;
+    height: 10vh;
+} */
+
+
+
+.sec1{
+    background-color: blueviolet;
+    width: 100%;
+    height: 100vh;
+}
