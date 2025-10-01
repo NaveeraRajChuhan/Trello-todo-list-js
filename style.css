@@ -24,7 +24,14 @@
 }
 
 .AddList{
-    
+    /* background-color: transparent; */
+    background-color: rgb(255, 235, 205);
+
+    width: 300px;
+    height: 100px;
 }
 
+.list-head{
+    font-size: 10px;
+}
 
